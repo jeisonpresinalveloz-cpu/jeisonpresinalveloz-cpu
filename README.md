@@ -1,6 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/jeisonpresinalveloz-cpu/count.svg"/>
+  <img src="https://profile-counter.glitch.me/jeisonpresinalveloz/count.svg"/>
   <br/>
 </div>
 <div>
