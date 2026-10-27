@@ -1,3 +1,15 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/jeisonpresinalveloz-cpu/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
+
 # 💫 About Me:
 Full-Stack Software Developer with formal technical training from Talendig and <br>Universidad Católica de Santo Domingo. Skilled in building scalable web applications, <br>RESTful APIs, and responsive frontends using JavaScript, Node.js, Express, React, and <br>SQL/NoSQL databases. Proficient in Linux administration, Bash scripting, Docker <br>containerization, and Agile team workflows. Fluent in English. 
 
